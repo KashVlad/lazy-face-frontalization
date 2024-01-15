@@ -34,7 +34,8 @@ for img_path in input_imgs:
 
     output_img = dummy_img.copy()
     output_img = swapper.get(output_img, dummy_face, input_face)
-
+    
+    output_img=cv2.cvtColor(output_img, cv2.COLOR_BGR2RGB
     output_face = app.get(output_img)
     bbox = output_face[0]['bbox']
     bbox = [int(b) for b in bbox]
