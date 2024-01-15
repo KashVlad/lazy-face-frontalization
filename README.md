@@ -18,7 +18,7 @@ That`s it!!!
 
 # Usage
 
-You can run the ```demo.ipynb``` if you want to see an example of how it works OR you can place your own face imagws in input folder and run the ```frontalization.ipynb``` / ```frontalization.py```.
+You can run the ```demo.ipynb``` if you want to see an example of how it works OR you can place your own face images in input folder and run the ```frontalization.ipynb``` / ```frontalization.py```.
 After that, the cropped frontalized faces will appear in the output folder.
 
 
