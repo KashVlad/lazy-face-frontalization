@@ -12,7 +12,7 @@ To install environment:
 conda env create -f environment.yml
 ```
 
-Download model ([link1](https://drive.google.com/file/d/1krOLgjW2tAPaqV-Bw4YALz0xT5zlb5HF/view),[link2](https://drive.google.com/file/d/1bRWIrDtVRdCneMerq2aN3dAMV_NTanCW/view?usp=sharing)) and place it like ```"C:\Users\<Your_Username>\.insightface\models\inswapper_128"``` (for Windows) ```"home\.insightface\models\inswapper_128\inswapper_128.onnx"``` (for Linux)
+Download model ([link1](https://drive.google.com/file/d/1krOLgjW2tAPaqV-Bw4YALz0xT5zlb5HF/view) or [link2](https://drive.google.com/file/d/1bRWIrDtVRdCneMerq2aN3dAMV_NTanCW/view?usp=sharing)) and place it like ```"C:\Users\<Your_Username>\.insightface\models\inswapper_128"``` (for Windows) ```"home\.insightface\models\inswapper_128\inswapper_128.onnx"``` (for Linux)
 
 That`s it!!!
 
