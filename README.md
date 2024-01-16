@@ -7,7 +7,7 @@ This project was created for lazy people who, like me, had a lot of problems whe
 
 I recommend to use [Anaconda](https://www.anaconda.com/download).
 
-To install environment:
+To install environment go to Anaconda Prompt and paste this:
 ```
 conda env create -f environment.yml
 ```
