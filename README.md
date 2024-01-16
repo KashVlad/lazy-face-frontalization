@@ -30,7 +30,7 @@ I lied a bit when I wrote that it was face frontalization. This program just tak
 - color of the output face depends on the color of the dummy.
 - you can change the dummy image in ```frontalization.ipynb``` / ```frontalization.py```
 
-
+Developed by Oleksandr Zhuravlov and Vladyslav Prymas
 
 
 
