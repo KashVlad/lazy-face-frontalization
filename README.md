@@ -7,12 +7,12 @@ This project was created for lazy people who, like me, had a lot of problems whe
 
 I recommend to use [Anaconda](https://www.anaconda.com/download).
 
-To install environment go to Anaconda Prompt and paste this:
+To install open Anaconda Prompt, than go to the folder where you saved the lazy-face-frontalization project and paste this:
 ```
 conda env create -f environment.yml
 ```
 
-Download model ([link1](https://drive.google.com/file/d/1krOLgjW2tAPaqV-Bw4YALz0xT5zlb5HF/view) or [link2](https://drive.google.com/file/d/1bRWIrDtVRdCneMerq2aN3dAMV_NTanCW/view?usp=sharing)) and place it like ```"C:\Users\<Your_Username>\.insightface\models\inswapper_128"``` (for Windows) ```"home\.insightface\models\inswapper_128\inswapper_128.onnx"``` (for Linux)
+Download model ([link1](https://drive.google.com/file/d/1krOLgjW2tAPaqV-Bw4YALz0xT5zlb5HF/view) or [link2](https://drive.google.com/file/d/1bRWIrDtVRdCneMerq2aN3dAMV_NTanCW/view?usp=sharing)) and place it like ```"C:\Users\<Your_Username>\.insightface\models\inswapper_128\inswapper_128.onnx"``` (for Windows) ```"home/.insightface/models/inswapper_128/inswapper_128.onnx"``` (for Linux)
 
 That`s it!!!
 
@@ -24,7 +24,7 @@ After that, the cropped frontalized faces will appear in the output folder.
 
 # How it works?
 
-I lied a bit when I wrote that it was face frontalization. This program just takes the face from the input image and swapp it with the  frontalized dummy face.But it doesn't matter because I think the accuracy is pretty good.
+I lied a bit when I wrote that it was face frontalization. This program just takes the face from the input image and swapp it with the  frontalized dummy face. But it doesn't matter because I think the accuracy is pretty good.
 
 ## **Note:**
 - color of the output face depends on the color of the dummy.
